@@ -1,0 +1,22 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial;
+  }
+  form {
+    background-color: white;
+    width: 300px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    margin: 20px;
+  }
+  input, select {
+    margin: 6px 0;
+    padding: 5px;
+    width: 95%;
+  }
+  input[type="submit"] {
+    background-color: rgba(207, 130, 255, 0.813);
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
