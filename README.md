@@ -28,6 +28,14 @@ Tudo isso usando apenas **PHP puro**, **HTML**, **CSS** e **MySQL** — sem fram
 📊 Mostrar total de filmes cadastrados  
 
 ---
+## 📸 Exemplo de Interface
+🖼️ Página principal (cadastro e listagem)
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6bbac286-7601-4a49-af1f-918275f93de1" />
+
+
+🖋️ Página de atualização
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/246b0549-16ec-4264-a0ce-78ce91ee6e9e" />
+
 
 ## 🧱 Estrutura do Projeto
 
@@ -168,13 +176,6 @@ table {
   border-collapse: collapse;
   width: 600px;
 }
-📸 Exemplo de Interface
-🖼️ Página principal (cadastro e listagem)
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6bbac286-7601-4a49-af1f-918275f93de1" />
-
-
-🖋️ Página de atualização
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/246b0549-16ec-4264-a0ce-78ce91ee6e9e" />
 
 
 🧑‍💻 Tecnologias Usadas
