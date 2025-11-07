@@ -39,7 +39,7 @@ Tudo isso usando apenas **PHP puro**, **HTML**, **CSS** e **MySQL** — sem fram
 ├── 📄 store.php          # Insere um novo registro
 ├── 📄 conexao.php        # Conexão com o banco MySQL
 ├── 🎨 style.css          # Estilos do layout
-└── 📘 README.md          # Este arquivo 😄
+└── 📘 README.md          # Este arquivo 
 ⚙️ Como Executar o Projeto
 Clone o repositório
 
