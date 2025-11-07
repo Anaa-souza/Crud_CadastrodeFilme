@@ -1,51 +1,45 @@
-## 🎬 CRUD de Filmes — PHP + MySQL
+<h1 align="center">🎬 CRUD de Filmes — PHP + MySQL</h1>
 
-Um projeto simples e funcional desenvolvido em **PHP** e **MySQL**, que permite **cadastrar, listar, atualizar e excluir filmes**.  
-Ideal para quem está começando com **CRUDs**, **banco de dados** e **programação web**. 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.2-blue?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
----
-
-## 🧠 Sobre o Projeto
-
-Este sistema é um **CRUD** (Create, Read, Update, Delete), ou seja, ele realiza as quatro operações básicas em um banco de dados.
-
-- **Create (Criar):** Adiciona novos filmes  
-- **Read (Ler):** Mostra todos os filmes cadastrados em uma tabela  
-- **Update (Atualizar):** Permite editar informações de um filme existente  
-- **Delete (Excluir):** Remove filmes do banco de dados  
-
-Tudo isso usando apenas **PHP puro**, **HTML**, **CSS** e **MySQL** — sem frameworks externos.
+<p align="center">
+  Um CRUD simples e funcional para gerenciar <b>filmes</b>, feito com <b>PHP + MySQL</b> 💾  
+  Ideal para quem está aprendendo sobre <b>banco de dados</b> e <b>desenvolvimento web</b> 🌐
+</p>
 
 ---
 
 ## 🚀 Funcionalidades
 
-✅ Cadastrar novos filmes  
-✏️ Editar informações diretamente em outra página  
-❌ Excluir filmes  
-📋 Exibir todos os filmes em uma tabela dinâmica  
-🔁 Redirecionar automaticamente após atualizar
-📊 Mostrar total de filmes cadastrados  
+- ✅ Cadastrar novos filmes  
+- 🧾 Listar filmes em uma tabela dinâmica  
+- ✏️ Editar informações em uma página dedicada  
+- ❌ Excluir registros com um clique  
+- 🔁 Redirecionamento automático após as ações  
+- 📊 Contador total de filmes cadastrados  
 
 ---
-## 📸 Exemplo de Interface
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+## 🖥️ Interface do Sistema
 
-<div>
-🖼️ **Página principal (cadastro e listagem)**  
-</div>
-<img align="right" width="250" height="250" alt="Página principal" src="https://github.com/user-attachments/assets/6bbac286-7601-4a49-af1f-918275f93de1" />
-
-<div>
-🖋️ **Página de atualização**  
-</div>
-<img align="right" width="250" height="250" alt="Página de atualização" src="https://github.com/user-attachments/assets/246b0549-16ec-4264-a0ce-78ce91ee6e9e" />
+<div align="center">
+  
+| Página Principal | Página de Atualização |
+|------------------|------------------------|
+| <img src="https://github.com/user-attachments/assets/6bbac286-7601-4a49-af1f-918275f93de1" width="350"/> | <img src="https://github.com/user-attachments/assets/246b0549-16ec-4264-a0ce-78ce91ee6e9e" width="350"/> |
 
 </div>
 
+---
 
-## 🧱 Estrutura do Projeto
+## 🧩 Estrutura do Projeto
+
+
 
 ```bash
 📂 crud-filmes
