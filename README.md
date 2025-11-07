@@ -29,12 +29,20 @@ Tudo isso usando apenas **PHP puro**, **HTML**, **CSS** e **MySQL** — sem fram
 
 ---
 ## 📸 Exemplo de Interface
-🖼️ Página principal (cadastro e listagem)
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6bbac286-7601-4a49-af1f-918275f93de1" />
 
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
 
-🖋️ Página de atualização
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/246b0549-16ec-4264-a0ce-78ce91ee6e9e" />
+<div>
+🖼️ **Página principal (cadastro e listagem)**  
+</div>
+<img align="right" width="250" height="250" alt="Página principal" src="https://github.com/user-attachments/assets/6bbac286-7601-4a49-af1f-918275f93de1" />
+
+<div>
+🖋️ **Página de atualização**  
+</div>
+<img align="right" width="250" height="250" alt="Página de atualização" src="https://github.com/user-attachments/assets/246b0549-16ec-4264-a0ce-78ce91ee6e9e" />
+
+</div>
 
 
 ## 🧱 Estrutura do Projeto
